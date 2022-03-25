@@ -1,14 +1,14 @@
 {
-  "name": "Aurora-npm",
+  "name": "aurora-npm",
   "version": "1.0.0",
   "description": "GARFIELD WHATSAPP BOT BY NOIZE DEVELOPERS",
-  "main": "./ GARFIELD-4.0/bot.js",
+  "main": "./Aurora-npm/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zenoixnoize/GARFIELD-4.0.git"
+    "url": "git+https://github.com/Zenoixnoize/Aurora-npm.git"
   },
   "keywords": [
     "whatsapp",
@@ -21,7 +21,7 @@
   "developer": "@Zenoixnoize",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Zenoixnoize/GARFIELD-4.0/issues"
+    "url": "https://github.com/Zenoixnoize/Aurora-npm/issues"
   },
   "homepage": "https://github.com/Zenoixnoize/GARFIELD-4.0#readme",
   "dependencies": {
