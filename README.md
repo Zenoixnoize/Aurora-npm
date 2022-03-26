@@ -1,1 +1,2 @@
-# Aurora-npm
+# npm i aurora-npm
+
