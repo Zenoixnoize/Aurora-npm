@@ -2,7 +2,7 @@
 
 | Version      | Supported             |
 |------------------------|-----------------------------------------|
-|@adiwajshing/baileys|  | ✅.           | 
+|@adiwajshing/baileys|  | ⚙️          | 
 @lh2020/speedtest-net|  | ✅ | 
 |textmaker-thiccy|  | ✅ | 
 |browser-id3-writer|  | ✅ | 
