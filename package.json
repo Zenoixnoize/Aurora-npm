@@ -19,11 +19,11 @@
   ],
   "author": "NOIZE",
   "developer": "@Zenoixnoize",
-  "license": "GPL-3.0-or-later",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/Zenoixnoize/Aurora-npm/issues"
   },
-  "homepage": "https://github.com/Zenoixnoize/GARFIELD-4.0#readme",
+  "homepage": "https://github.com/Zenoixnoize/Aurora-npm#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
     "@lh2020/speedtest-net": "^2.1.1",
