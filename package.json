@@ -1,6 +1,6 @@
 {
   "name": "aurora-npm",
-  "version": "4.2.8",
+  "version": "4.5.8",
   "description": "x-nodes server package",
   "main": "src/stack.js",
   "directories": {
@@ -51,7 +51,7 @@
     "languagedetect": "^2.0.0",
     "meme-maker": "^2.1.2",
     "mongodb": "4.3.1",
-    "node-fetch": "3.2.3",
+    "node-fetch": "2.6.1",
     "node-tesseract-ocr": "^2.0.0",
     "pg": "8.5.1",
     "sequelize": "6.5.1",
