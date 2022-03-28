@@ -1,6 +1,6 @@
 {
   "name": "aurora-npm",
-  "version": "4.2.6",
+  "version": "4.2.8",
   "description": "x-nodes server package",
   "main": "src/stack.js",
   "directories": {
