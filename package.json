@@ -1,6 +1,6 @@
 {
   "name": "aurora-npm",
-  "version": "1.3.0",
+  "version": "4.1.1",
   "description": "x-nodes server package",
   "main": "src/stack.js",
   "directories": {
@@ -10,8 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Zenoixnoize/Aurora-npm.git"
+    "type": "git"
   },
   "author": "Zenoixnoize",
   "license": "GNU",
@@ -69,6 +68,5 @@
   "devDependencies": {},
   "bugs": {
     "url": "https://github.com/Zenoixnoize/Aurora-npm/issues"
-  },
-  "homepage": "https://github.com/Zenoixnoize/Aurora-npm#readme"
+  }
 }
