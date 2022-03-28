@@ -1,6 +1,6 @@
 {
   "name": "aurora-npm",
-  "version": "4.2.5",
+  "version": "4.2.6",
   "description": "x-nodes server package",
   "main": "src/stack.js",
   "directories": {
@@ -15,16 +15,16 @@
   "author": "Zenoixnoize",
   "license": "GNU",
   "dependencies": {
-    "@adiwajshing/baileys": "3.5.3",
+    "@adiwajshing/baileys": "4.0.1",
     "network-speed": "2.1.1",
     "@octokit/core": "3.6.0",
     "@lh2020/speedtest-net": "2.1.1",
     "textmaker-thiccy": "^1.2.5",
-    "wa-sticker-formatter": "4.2.3",
+    "wa-sticker-formatter": "3.6.0",
     "browser-id3-writer": "^4.4.0",
     "playstore-scraper": "^1.0.0",
     "axios": "0.26.1",
-    "googlethis": "1.7.3",
+    "googlethis": "^1.1.6",
     "audiobuffer-to-wav": "1.0.0",
     "chalk": "^4.1.0",
     "coffeehouse": "^2.0.0",
