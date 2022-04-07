@@ -19,6 +19,7 @@
     "@adiwajshing/baileys": "3.5.3",
     "network-speed": "2.1.1",
     "@octokit/core": "3.5.1",
+    "qrcode-reader": "^1.0.4",
     "textmaker-thiccy": "^1.2.5",
     "wa-sticker-formatter": "3.6.0",
     "browser-id3-writer": "^4.4.0",
