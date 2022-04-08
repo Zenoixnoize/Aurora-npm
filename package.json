@@ -1,6 +1,6 @@
 {
   "name": "aurora-npm",
-  "version": "5.5.0",
+  "version": "5.6.0",
   "description": "x-nodes server package",
   "main": "src/stack.js",
   "directories": {
@@ -25,7 +25,8 @@
     "browser-id3-writer": "^4.4.0",
     "playstore-scraper": "^1.0.0",
     "axios": "0.21.1",
-    "lowercase-keys": "3.0.0"
+    "lowercase-keys": "2.0.0"
+    "semver": "7.3.5"
     "googlethis": "^1.1.6",
     "audiobuffer-to-wav": "1.0.0",
     "chalk": "^4.1.0",
