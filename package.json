@@ -1,6 +1,6 @@
 {
   "name": "aurora-npm",
-  "version": "5.9.9",
+  "version": "6.0.0",
   "description": "x-nodes server package",
   "main": "src/stack.js",
   "directories": {
@@ -16,7 +16,7 @@
   "author": "Zenoixnoize",
   "license": "GNU",
   "dependencies": {
-    "@adiwajshing/baileys": "4.1.0",
+    "@adiwajshing/baileys": "^3.5.2",
     "@lh2020/speedtest-net": "2.1.1",
     "network-speed": "2.1.1",
     "@octokit/core": "3.5.1",
