@@ -16,7 +16,7 @@
   "author": "Zenoixnoize",
   "license": "GNU",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.2",
+    "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "2.1.1",
     "network-speed": "2.1.1",
     "@octokit/core": "3.5.1",
